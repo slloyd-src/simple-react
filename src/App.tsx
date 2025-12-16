@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>Added text to demo updating the git tag to 1.0.1</p>
-      <p>...and again...and again</p>
+      <p>...and again...and again...and again...</p>
     </>
   )
 }
