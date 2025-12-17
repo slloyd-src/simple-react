@@ -31,6 +31,7 @@ function App() {
       <p>Added text to demo updating the git tag to 1.0.1</p>
       <p>...and again...and again...and again...</p>
       <p>One more time, with a fine-grained update x2</p>
+      <p>Should output a version message to git</p>
     </>
   )
 }
