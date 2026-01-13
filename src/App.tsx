@@ -31,7 +31,7 @@ function App() {
       <p>Removed text to demonstrate new flux deployment layout</p>
       <p>Another test</p>
       <p>And again...</p>
-      <p>test for 17-rc2</p>
+      <p>test for jbok8</p>
     </>
   )
 }
