@@ -29,9 +29,8 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>Removed text to demonstrate new flux deployment layout</p>
-      <p>Another test</p>
-      <p>And again...</p>
-      <p>test for jbok8</p>
+      <p>Another test for Dave & Ben</p>
+      
     </>
   )
 }
