@@ -28,9 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <p>Removed text to demonstrate new flux deployment layout</p>
-      <p>Another test for Dave & Ben</p>
-      
+      <p>testing shared deployment</p>      
     </>
   )
 }
